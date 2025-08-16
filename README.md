@@ -1,4 +1,4 @@
-## Bem vindo(a) ao perfil de um iniciante em programa
+## Bem vindo(a) ao perfil de um iniciante em programação
  <div>
    <a href="https://github.com/Predo555">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Predo555&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
